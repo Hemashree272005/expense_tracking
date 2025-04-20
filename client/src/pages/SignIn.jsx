@@ -7,7 +7,7 @@ import EyeOffIcon from "../interface/Svgs/EyeOffIcon";
 import useSignIn from "../hooks/useSignIn";
 // import "../styles/signin.css"
 
-export default function SignIn() {
+export default  function SignIn() {
   const {
     handleSiginClick,
     email,
